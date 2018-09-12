@@ -1,0 +1,1 @@
+set global max_allowed_packet = 100000000000000
